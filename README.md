@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/joellhss/interior-consultant/blob/main/assets/Captura%20de%20tela%20de%202022-07-26%2014-40-13.png?raw=true)
 
 This project was developed with the aim of practicing responsiveness on websites. Challenged proposed by the devChallenge.
 
